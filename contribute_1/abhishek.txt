@@ -1,0 +1,5 @@
+I am a 3rd year UG student of Computer Science and Engineering at Bakhtiyarpur College Of Engineering. 
+I like problem solving and practice daily on Leetcode, Codechef and Codeforces in C++. 
+I also like JavaScript and have built few small scale projects in React. 
+This is for the second commit.
+This is for the third commit.
