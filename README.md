@@ -8,7 +8,7 @@
 - Add all the files into staged changes.
 - Commit your work, Make yourself write a good commit message.
 - Push the changes.
--Finally, Raise a PR.
+- Finally, Raise a PR. (Squash your commits or maybe rebase your branch)
 
 
 ## Sources for help
