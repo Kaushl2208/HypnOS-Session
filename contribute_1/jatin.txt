@@ -1,4 +1,11 @@
 Hey There!, I am jatin saini, a final year Electrical Engineering undergraduate from Bharati Vidyapeeth's College of Engineering, New Delhi.
 
 You can find out some of my interesting projects on Github and connect with me on linkedIn.
-I enjoy problem solving and working on robotics.A fun fact about me is that i can swim faster than a dolphin, do 1000 push-ups in an hour, lift and flip over a lamborghini, base jump from burj khalifa, and also im an amazing rope skipper, huge crowds are drawn to watch me skipping a rope. (PS- this all activity is limited to being done in my bedtime.I dont take out extra time for all this).
+
+I find using git amazing.Its so much fun working on it.(// commit 1)
+Git is actually a very important software tool to learn for developers/students who want to forray into the domain of Open Source.(// commit 2).
+
+I am learning git and github because im participating in the GSOC 2021 programm.
+
+
+ enjoy problem solving and working on robotics.A fun fact about me is that i can swim faster than a dolphin, do 1000 push-ups in an hour, lift and flip over a lamborghini, base jump from burj khalifa, and also im an amazing rope skipper, huge crowds are drawn to watch me skipping a rope. (PS- this all activity is limited to being done in my bedtime.I dont take out extra time for all this).
