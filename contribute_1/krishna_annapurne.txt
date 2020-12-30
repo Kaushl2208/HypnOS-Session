@@ -1,0 +1,5 @@
+Hi guys, I am Krishna Annapurne, 3rd year CSE student from IIT Guwahati.
+I have good experience coding in C, C++ and python. I have a good knowledge of DSA. I have worked on a few projects on web development(HTML, CSS, Django) and app development(Java). I am also active in competitive programming. Looking forward to be a part of GSoC.
+My linkedin : https://www.linkedin.com/in/krishna0312/
+My github: https://github.com/Krish03na
+Feel free to connect with me
