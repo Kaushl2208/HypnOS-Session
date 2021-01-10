@@ -1,0 +1,9 @@
+THis is a sample readme file to understand the concept of merging and rebasing in a version control system.
+We will be learning the meaning of the terms --> "Upstream", "origin", "remote", "Rebase", "Merge", "Pull request" etc in this short exercise.
+
+This line and the following paragraph can be treated as a second commit to this file.
+With this commit im trying to do changes in two files at a time and view the git status.
+
+ 
+
+
